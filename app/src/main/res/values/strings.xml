@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Paris Events</string>
+    <string name="complete">Complete</string>
+    <string name="no_results">No results</string>
+    <string name="action_refresh">refresh</string>
+    <string name="no_link">No link</string>
+    <string name="msg_open_in_browser">Do you really want to open this article in an external browser ?</string>
+    <string name="external_link">External Link</string>
+</resources>
